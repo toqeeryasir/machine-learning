@@ -1,0 +1,462 @@
+Date,Cases,Deaths,Recovered,Travel_history,Province,City
+26-Feb-20,2,,,China,Islamabad Capital Territory,Islamabad
+27-Feb-20,0,,,Iran/Taftan,Sindh,Karachi
+28-Feb-20,0,,,China,Islamabad Capital Territory,Islamabad
+29-Feb-20,2,,,Iran/Taftan,Sindh,Karachi
+1-Mar-20,0,,,Unknown,Sindh,Karachi
+2-Mar-20,0,,,Iran/Taftan,Sindh,Karachi
+3-Mar-20,1,,,Syria,Sindh,Karachi
+4-Mar-20,0,,,UK,Sindh,Karachi
+5-Mar-20,1,,,Iran/Taftan,Sindh,Karachi
+6-Mar-20,0,,1,Syria,Sindh,Hyderabad
+7-Mar-20,0,,0,Iran/Taftan,Baluchistan,Quetta
+8-Mar-20,1,,0,Iran/Taftan,Gilgit Baltistan,Skardu
+9-Mar-20,9,,0,Iran/Taftan,Sindh,Karachi
+10-Mar-20,3,,0,Local - Social Contact,Gilgit Baltistan,Gilgit
+11-Mar-20,1,,1,USA,Islamabad Capital Territory,Islamabad
+12-Mar-20,1,,0,Local - Social Contact,Sindh,Karachi
+13-Mar-20,7,,1,Iran/Taftan,Baluchistan,Taftan
+14-Mar-20,3,,0,Iran/Taftan,Sindh,Sukkur
+15-Mar-20,22,,0,Iran/Taftan,Sindh,Karachi
+16-Mar-20,134,,1,UK,Punjab,Lahore
+17-Mar-20,54,,0,Iran/Taftan,Khyber Pakhtunkhwa,Dera Ismail Khan
+18-Mar-20,61,2,1,Iran/Taftan,Khyber Pakhtunkhwa,Mardan
+19-Mar-20,159,0,0,Iran/Taftan,Sindh,Sukkur
+20-Mar-20,34,1,0,Iran/Taftan,Sindh,Karachi
+21-Mar-20,151,0,0,Iran/Taftan,Sindh,Hyderabad
+22-Mar-20,138,2,1,Iran/Taftan,Punjab,Lahore
+23-Mar-20,103,1,0,Iran/Taftan,Islamabad Capital Territory,Islamabad
+24-Mar-20,104,1,12,Iran/Taftan,khyber Pakhtunkhwa,Mansehra
+25-Mar-20,66,1,3,Iran/Taftan,Khyber Pakhtunkhwa,Mardan
+26-Mar-20,140,1,2,Iran/Taftan,Punjab,Dera Ghazi Khan
+27-Mar-20,211,2,3,Iran/Taftan,Sindh,Sukkur
+28-Mar-20,118,2,2,KSA,Sindh,Karachi
+29-Mar-20,99,5,4,KSA,Punjab,Lahore
+30-Mar-20,240,7,26,KSA,khyber Pakhtunkhwa,Peshawar
+31-Mar-20,174,1,24,UK,Khyber Pakhtunkhwa,Charsadda
+1-Apr-20,252,5,25,UK,Islamabad Capital Territory,Islamabad
+2-Apr-20,159,4,19,UK,Islamabad Capital Territory,Islamabad
+3-Apr-20,258,5,4,Iran/Taftan,Punjab,Dera Ghazi Khan
+4-Apr-20,172,5,40,Iran/Taftan,Sindh,Sukkur
+5-Apr-20,407,5,87,Local - Social Contact,Sindh,Karachi
+6-Apr-20,577,4,172,Local - Social Contact,Gilgit Baltistan,Gilgit
+7-Apr-20,210,4,38,Local - Social Contact,Khyber Pakhtunkhwa,Buner
+8-Apr-20,243,5,105,KSA,Khyber Pakhtunkhwa,Mardan 
+9-Apr-20,281,3,155,KSA,Khyber Pakhtunkhwa,Hangu 
+10-Apr-20,186,5,35,Iran/Taftan,Azad Jummu Kashmir,Mirpur
+11-Apr-20,254,15,264,Local - Social Contact,Punjab,Multan
+12-Apr-20,336,7,69,Local - Social Contact,Punjab,Lahore
+13-Apr-20,342,3,283,Iran/Taftan,Punjab,Dera Ghazi Khan
+14-Apr-20,269,11,68,Local - Social Contact,Sindh,Karachi
+15-Apr-20,543,17,199,Iran/Taftan,Baluchistan,Quetta
+16-Apr-20,488,11,120,Local - Social Contact,Khyber Pakhtunkhwa,Mardan
+17-Apr-20,463,8,67,Local - Covid Relative,Khyber Pakhtunkhwa,Dera Ismail Khan
+18-Apr-20,514,16,36,Local - Covid Relative,Gilgit Baltistan,Gilgit
+19-Apr-20,427,17,102,Local - Covid Relative,Gilgit Baltistan,Nagar
+20-Apr-20,796,16,96,Local - Covid Relative,Baluchistan,Quetta
+21-Apr-20,555,17,90,Local - Social Contact,Sindh,Karachi
+22-Apr-20,742,15,181,Local - Social Contact,Khyber Pakhtunkhwa,Mansehra
+23-Apr-20,642,13,190,Local - Social Contact,Federal Administration Tribal Area,Khyber
+24-Apr-20,785,16,228,Local - Social Contact,Punjab,Rawalpindi
+25-Apr-20,783,16,111,Local - Social Contact,Punjab,Jehlum
+26-Apr-20,605,12,163,Local - Social Contact,Punjab,Gujrat 
+27-Apr-20,751,20,204,Local - Social Contact,Punjab,Lahore
+28-Apr-20,806,26,192,Iran/Taftan,Punjab,Dera Ghazi Khan
+29-Apr-20,942,34,627,Local - Social Contact,Gilgit Baltistan,Nagar
+30-Apr-20,990,24,263,Iran/Taftan,Gilgit Baltistan,Gilgit
+1-May-20,1297,32,400,Iran/Taftan,Islamabad Capital Territory,Islamabad
+2-May-20,989,23,102,Iran/Taftan,Baluchistan,Quetta
+3-May-20,1083,22,773,Iran/Taftan,Sindh,Sukkur
+4-May-20,1315,24,192,Local - Social Contact,Sindh,Karachi
+5-May-20,1049,40,435,Iran/Taftan,Gilgit Baltistan,Skardu
+6-May-20,1523,38,247,Iran/Taftan,Punjab,Lahore
+7-May-20,1764,30,1066,Iran/Taftan,Punjab,Dera Ghazi Khan
+8-May-20,1637,24,226,Local - Social Contact,Punjab,Jehlum
+9-May-20,1991,21,267,Local - Social Contact,Punjab,Gujranwala
+10-May-20,1476,29,189,Iran/Taftan,Khyber Pakhtunkhwa,Peshawar
+11-May-20,1140,38,343,Local - Social Contact,Khyber Pakhtunkhwa,Peshawar
+12-May-20,2255,31,257,Iran/Taftan,Khyber Pakhtunkhwa,Dera Ismail Khan
+13-May-20,1452,33,883,Iran/Taftan,Khyber Pakhtunkhwa,Mardan
+14-May-20,1430,33,460,Iran/Taftan,Khyber Pakhtunkhwa,Karak
+15-May-20,1581,31,725,Local - Social Contact,Gilgit Baltistan,Nagar
+16-May-20,1352,39,461,Local - Social Contact,Sindh,Karachi
+17-May-20,1974,30,581,Local - Social Contact,Sindh,Sukkur
+18-May-20,1841,36,567,Local - Social Contact,Islamabad Capital Territory,Islamabad
+19-May-20,1932,46,612,Local - Social Contact,Punjab,Lahore
+20-May-20,2193,32,1054,Local - Social Contact,Punjab,Jehlum
+21-May-20,2603,50,1046,Local - Social Contact,Punjab,Rawalpindi
+22-May-20,1743,34,1452,Iran/Taftan,Punjab,Dera Ghazi Khan
+23-May-20,2164,32,545,Iran/Taftan,Baluchistan,Quetta
+24-May-20,1748,34,284,Local - Social Contact,Sindh,Karachi
+25-May-20,1356,30,832,Iran/Taftan,Sindh,Sukkur
+26-May-20,1446,28,828,Iran/Taftan,Sindh,Dadu
+27-May-20,2241,35,1089,Iran/Taftan,Baluchistan,Taftan
+28-May-20,2636,57,2074,Iran/Taftan,Gilgit Baltistan,Skardu
+29-May-20,2429,78,1826,Iran/Taftan,Punjab,Dera Ghazi Khan
+30-May-20,3039,88,1140,Local - Social Contact,Punjab,Lahore
+31-May-20,2964,60,812,Unknown,Khyber Pakhtunkhwa,Mansehra
+1-Jun-20,3872,78,1027,Iran/Taftan,Sindh,Sukkur
+2-Jun-20,4244,67,1813,Local - Social Contact,Sindh,Karachi
+3-Jun-20,3777,82,1205,Local - Social Contact,Gilgit Baltistan,Gilgit
+4-Jun-20,4896,68,1070,Iran/Taftan,Khyber Pakhtunkhwa,Dera Ismail Khan
+5-Jun-20,4734,97,1383,Iran/Taftan,Federal Administration Tribal Area,South Waziristan
+6-Jun-20,4960,67,884,Iran/Taftan,Khyber Pakhtunkhwa,Peshawar
+7-Jun-20,4728,65,890,Iran/Taftan,Baluchistan,Quetta
+8-Jun-20,4646,105,663,Local - Social Contact,Punjab,Lahore
+9-Jun-20,5385,83,1290,Local - Social Contact,Punjab,Multan
+10-Jun-20,5834,101,2083,Local - Social Contact,Punjab,Gujrat 
+11-Jun-20,6397,107,1856,Local - Social Contact,Punjab,Gujranwala
+12-Jun-20,6472,88,9809,Local - Social Contact,Punjab,Sargodha
+13-Jun-20,6825,81,1679,Local - Social Contact,Punjab,Faisalabad
+14-Jun-20,5248,96,1986,Local - Social Contact,Punjab,Mandi Bahauddin
+15-Jun-20,4443,111,2669,Local - Social Contact,Punjab,Rahim yar khan
+16-Jun-20,5839,136,2047,Local - Social Contact,Sindh,Karachi
+17-Jun-20,5358,118,778,Iran/Taftan,Punjab,Dera Ghazi Khan
+18-Jun-20,4944,136,2168,International Passenger,Islamabad Capital Territory,Islamabad
+19-Jun-20,6604,153,2121,Local - Social Contact,Sindh,Karachi
+20-Jun-20,4951,119,4388,Local - Social Contact,Sindh,Hyderabad
+21-Jun-20,4471,89,3566,Local - Social Contact,Baluchistan,Quetta
+22-Jun-20,3946,105,2283,Local - Social Contact,Gilgit Baltistan,Astore
+23-Jun-20,3892,60,4013,Local - Social Contact,Khyber Pakhtunkhwa,Mardan
+24-Jun-20,4044,148,3553,Iran/Taftan,Khyber Pakhtunkhwa,Dera Ismail Khan
+25-Jun-20,2775,58,2861,Iran/Taftan,Khyber Pakhtunkhwa,Swabi
+26-Jun-20,3138,74,2738,Local - Social Contact,Punjab,Gujrat
+27-Jun-20,4072,83,5718,Local - Social Contact,Punjab,Gujranwala
+28-Jun-20,3536,68,2783,Iran/Taftan,Punjab,Dera Ghazi Khan
+29-Jun-20,2846,118,3096,Iran/Taftan,Punjab,Lahore
+30-Jun-20,4133,91,2299,Local - Social Contact,Punjab,Multan
+1-Jul-20,4339,78,3892,Unknown,Gilgit Baltistan,Kharmang
+2-Jul-20,4087,78,8929,Dubai,Gilgit Baltistan,Kharmang
+3-Jul-20,3387,68,11471,Dubai,Khyber Pakhtunkhwa,Dir Upper
+4-Jul-20,3191,93,4736,Dubai,Khyber Pakhtunkhwa,Swat
+5-Jul-20,3344,50,1819,Dubai,Azad Jummu Kashmir,Mirpur
+6-Jul-20,2691,77,3308,Dubai,Islamabad Capital Territory,Islamabad
+7-Jul-20,2980,83,6008,Local - Social Contact,Sindh,Karachi
+8-Jul-20,3359,61,4346,Local - Social Contact,Khyber Pakhtunkhwa,Mardan
+9-Jul-20,2751,75,3781,Iran/Taftan,Baluchistan,Quetta
+10-Jul-20,2752,65,4042,Iran/Taftan,Gilgit Baltistan,Skardu
+11-Jul-20,2505,74,3566,Iran/Taftan,Punjab,Lahore
+12-Jul-20,2769,73,5217,Iran/Taftan,Punjab,Multan
+13-Jul-20,1979,49,8739,Local - Social Contact,Punjab,Gujrat
+14-Jul-20,2165,67,2154,Local - Social Contact,Punjab,Jehlum
+15-Jul-20,2145,40,5927,Local - Social Contact,Punjab,Rawalpindi
+16-Jul-20,2085,49,5000,Local - Social Contact,Punjab,Faisalabad
+17-Jul-20,1918,47,14772,Local - Social Contact,Punjab,Mandi Bahauddin
+18-Jul-20,1579,46,5767,Local - Social Contact,Punjab,Mianwali
+19-Jul-20,1587,31,1653,Local - Social Contact,Punjab,Narowal
+20-Jul-20,1013,40,2101,Local - Social Contact,Punjab,Nankana
+21-Jul-20,1332,38,2438,Local - Social Contact,Punjab,Attock
+22-Jul-20,1763,32,2707,Local - Social Contact,Punjab,Bahawal Nagar
+23-Jul-20,1209,54,6608,Iran/Taftan,Punjab,Dera Ghazi Khan
+24-Jul-20,1487,24,16813,Local - Social Contact,Islamabad Capital Territory,Islamabad
+25-Jul-20,1226,35,838,Local - Social Contact,Gilgit Baltistan,Shigar
+26-Jul-20,1176,20,3592,Local - Social Contact,Gilgit Baltistan,Gilgit
+27-Jul-20,936,23,1410,Iran/Taftan,Sindh,Larkana
+28-Jul-20,1063,27,2447,Local - Social Contact,Sindh,Karachi
+29-Jul-20,1114,32,1248,Local - Social Contact,Khyber Pakhtunkhwa,Peshawar
+30-Jul-20,903,27,2447,Local - Social Contact,Khyber Pakhtunkhwa,Swat
+31-Jul-20,841,19,850,Local - Social Contact,Khyber Pakhtunkhwa,Swabi
+1-Aug-20,553,6,550,Local - Social Contact,Khyber Pakhtunkhwa,Nowshera
+2-Aug-20,330,8,296,Iran/Taftan,Khyber Pakhtunkhwa,Orakzai
+3-Aug-20,432,15,524,Iran/Taftan,Khyber Pakhtunkhwa,Mardan
+4-Aug-20,675,15,4889,Iran/Taftan,Khyber Pakhtunkhwa,Malakand
+5-Aug-20,727,21,1772,Iran/Taftan,Khyber Pakhtunkhwa,Mansehra
+6-Aug-20,782,17,2041,Iran/Taftan,Khyber Pakhtunkhwa,Kohat
+7-Aug-20,842,16,1505,Local - Social Contact,Punjab,Lahore
+8-Aug-20,634,14,644,Local - Social Contact,Punjab,Faisalabad
+9-Aug-20,539,15,516,Iran/Taftan,Punjab,Multan
+10-Aug-20,531,15,482,Unknown,Baluchistan,Quetta
+11-Aug-20,730,17,1947,Local - Social Contact,Punjab,Khushab
+12-Aug-20,753,10,389,Local - Social Contact,Khyber Pakhtunkhwa,Dera Ismail Khan
+13-Aug-20,626,14,1155,Local - Social Contact,Khyber Pakhtunkhwa,Charsadda
+14-Aug-20,747,9,409,Local - Social Contact,Khyber Pakhtunkhwa,Buner
+15-Aug-20,670,6,677,Local - Social Contact,Punjab,Nankana
+16-Aug-20,498,7,2786,Local - Social Contact,Punjab,Mandi Bahauddin
+17-Aug-20,617,15,922,Local - Social Contact,Punjab,Sargodha
+18-Aug-20,613,11,2119,Local - Social Contact,Punjab,Vehari
+19-Aug-20,513,8,676,Iran/Taftan,Punjab,Multan
+20-Aug-20,630,10,775,Local - Social Contact,Punjab,Lahore
+21-Aug-20,586,12,1738,Local - Social Contact,Punjab,Faisalabad
+22-Aug-20,591,4,591,Local - Social Contact,Punjab,Gujranwala
+23-Aug-20,496,9,993,Local - Social Contact,Punjab,Rawalpindi
+24-Aug-20,450,11,1596,Local - Social Contact,Punjab,Jehlum
+25-Aug-20,482,12,482,Local - Social Contact,Punjab,Gujrat
+26-Aug-20,445,7,622,Local - Social Contact,Punjab,Dera Ghazi Khan
+27-Aug-20,415,9,376,Iran/Taftan,Punjab,Raiwind
+28-Aug-20,319,1,403,International Passenger,Islamabad Capital Territory,Islamabad
+29-Aug-20,264,4,207,Local - Social Contact,Sindh,Karachi
+30-Aug-20,213,6,135,Local - Social Contact,Sindh,Hyderabad
+31-Aug-20,300,4,288,Local - Social Contact,Baluchistan,Quetta
+1-Sep-20,441,20,489,Local - Social Contact,Khyber Pakhtunkhwa,Dir Lower
+2-Sep-20,424,10,466,Local - Social Contact,Khyber Pakhtunkhwa,Abbottabad
+3-Sep-20,498,7,343,Local - Social Contact,Islamabad Capital Territory,Islamabad
+4-Sep-20,513,5,285,Local - Social Contact,Punjab,Lahore
+5-Sep-20,484,2,3345,Local - Social Contact,Punjab,Vehari
+6-Sep-20,394,3,118,Local - Social Contact,Punjab,Bahawalpur
+7-Sep-20,330,5,141,Local - Social Contact,Punjab,Gujrat
+8-Sep-20,181,9,349,Local - Social Contact,Punjab,Jehlum
+9-Sep-20,409,6,1444,Local - Social Contact,Punjab,Gujranwala
+10-Sep-20,548,5,256,Local - Social Contact,Punjab,Rawalpindi
+11-Sep-20,584,3,330,Iran/Taftan,Punjab,Raiwind
+12-Sep-20,526,6,893,Local - Social Contact,Punjab,Rahim Yar Khan
+13-Sep-20,539,4,377,Local - Social Contact,Azad Jummu Kashmir,Muzaffarabad
+14-Sep-20,404,6,455,Local - Social Contact,Sindh,Karachi
+15-Sep-20,665,4,499,Local - Social Contact,Gilgit Baltistan,Nagar
+16-Sep-20,545,6,409,Local - Social Contact,Gilgit Baltistan,Shigar
+17-Sep-20,752,9,514,Iran/Taftan,Gilgit Baltistan,Kharmang
+18-Sep-20,645,7,361,Local - Social Contact,Gilgit Baltistan,Astore
+19-Sep-20,640,1,259,Local - Social Contact,Gilgit Baltistan,Ghanche
+20-Sep-20,633,4,566,Local - Social Contact,Khyber Pakhtunkhwa,Abbottabad
+21-Sep-20,582,4,290,Local - Social Contact,Khyber Pakhtunkhwa,Peshawar
+22-Sep-20,532,8,757,Local - Social Contact,Khyber Pakhtunkhwa,Dir Lower
+23-Sep-20,799,5,476,Local - Social Contact,Islamabad Capital Territory,Islamabad
+24-Sep-20,798,7,348,Local - Social Contact,Punjab,Nankana
+25-Sep-20,566,7,593,Local - Social Contact,Punjab,Lahore
+26-Sep-20,694,6,280,Local - Social Contact,Punjab,Gujrat
+27-Sep-20,569,9,409,Iran/Taftan,Punjab,Raiwind
+28-Sep-20,672,8,318,Local - Social Contact,Sindh,Karachi
+29-Sep-20,747,5,541,Local - Social Contact,Sindh,Sukkur
+30-Sep-20,543,5,616,Local - Social Contact,Baluchistan,Quetta
+1-Oct-20,625,15,558,Local - Social Contact,Federal Administration Tribal Area,Bajaur
+2-Oct-20,553,8,538,Iran/Taftan,Khyber Pakhtunkhwa,Peshawar
+3-Oct-20,632,6,393,Iran/Taftan,Khyber Pakhtunkhwa,Bannu
+4-Oct-20,644,4,850,Local - Social Contact,Khyber Pakhtunkhwa,Dera Ismail Khan
+5-Oct-20,467,6,780,Local - Social Contact,Khyber Pakhtunkhwa,Dir Lower
+6-Oct-20,624,12,672,Local - Social Contact,Khyber Pakhtunkhwa,Mansehra
+7-Oct-20,583,9,1086,Local - Social Contact,Khyber Pakhtunkhwa,Mardan
+8-Oct-20,661,8,334,Local - Social Contact,Khyber Pakhtunkhwa,Peshawar
+9-Oct-20,671,6,354,Local - Social Contact,Islamabad Capital Territory,Islamabad
+10-Oct-20,666,12,396,Iran/Taftan,Punjab,Dera Ghazi Khan
+11-Oct-20,385,10,727,Local - Social Contact,Punjab,Rawalpindi
+12-Oct-20,531,8,424,Local - Social Contact,Punjab,Mianwali
+13-Oct-20,615,13,471,Local - Social Contact,Punjab,Rahim Yar Khan
+14-Oct-20,755,13,315,Local - Social Contact,Punjab,Hafizabad
+15-Oct-20,659,7,440,Local - Social Contact,Punjab,Kasur
+16-Oct-20,575,17,805,Local - Social Contact,Punjab,Laiya
+17-Oct-20,567,16,429,Local - Social Contact,Sindh,Hyderabad
+18-Oct-20,433,5,340,Iran/Taftan,Sindh,Sukkur
+19-Oct-20,632,14,611,Tableeghi Jamaat,Sindh,Hyderabad
+20-Oct-20,660,19,654,Local - Social Contact,Sindh,Jacobabad
+21-Oct-20,736,10,462,Iran/Taftan,Baluchistan,Quetta
+22-Oct-20,736,13,510,Iran/Taftan,Gilgit Baltistan,Nagar
+23-Oct-20,847,12,455,Iran/Taftan,Khyber Pakhtunkhwa,Peshawar
+24-Oct-20,832,9,390,Local - Social Contact,Federal Administration Tribal Area,Bajaur
+25-Oct-20,707,3,584,Local - Social Contact,Khyber Pakhtunkhwa,Dera Ismail Khan
+26-Oct-20,773,6,365,Local - Social Contact,Khyber Pakhtunkhwa,Haripur
+27-Oct-20,825,14,374,Local - Social Contact,Khyber Pakhtunkhwa,Kohat
+28-Oct-20,908,16,824,Local - Social Contact,Khyber Pakhtunkhwa,Mardan
+29-Oct-20,1078,20,889,Iran/Taftan,Federal Administration Tribal Area,Kurrum
+30-Oct-20,807,11,539,Iran/Taftan,Khyber Pakhtunkhwa,Dera Ismail Khan
+31-Oct-20,977,17,489,Iran/Taftan,Khyber Pakhtunkhwa,Peshawar
+1-Nov-20,1123,12,461,Iran/Taftan,Azad Jummu Kashmir,Bhambore 
+2-Nov-20,1167,14,430,Iran/Taftan,Azad Jummu Kashmir,Trarkhel
+3-Nov-20,1313,18,614,Local - Social Contact,Khyber Pakhtunkhwa,Bannu
+4-Nov-20,1302,26,605,Local - Social Contact,Khyber Pakhtunkhwa,Peshawar
+5-Nov-20,1376,30,421,Local - Social Contact,Khyber Pakhtunkhwa,Nowshera
+6-Nov-20,1502,20,812,Local - Social Contact,Khyber Pakhtunkhwa,Abbottabad
+7-Nov-20,1436,25,519,Local - Social Contact,Khyber Pakhtunkhwa,Dir Upper
+8-Nov-20,1650,9,464,Local - Social Contact,Khyber Pakhtunkhwa,Haripur
+9-Nov-20,1637,23,550,Local - Social Contact,Federal Administration Tribal Area,Khyber
+10-Nov-20,1708,21,634,Local - Social Contact,Khyber Pakhtunkhwa,Kohat
+11-Nov-20,1808,34,784,Local - Social Contact,Federal Administration Tribal Area,Kurrum
+12-Nov-20,2304,37,714,Local - Social Contact,Khyber Pakhtunkhwa,Mansehra
+13-Nov-20,2165,17,851,Local - Social Contact,Khyber Pakhtunkhwa,Mardan
+14-Nov-20,2443,32,811,Local - Social Contact,Khyber Pakhtunkhwa,Orakzai
+15-Nov-20,2128,19,599,Local - Social Contact,Khyber Pakhtunkhwa,Tank
+16-Nov-20,2050,33,1010,Local - Social Contact,Federal Administration Tribal Area,South Waziristan
+17-Nov-20,2298,37,954,Local - Social Contact,Sindh,Karachi
+18-Nov-20,2547,18,886,Local - Social Contact,Punjab,Lodhran
+19-Nov-20,2738,313,868,Local - Social Contact,Punjab,Lahore
+20-Nov-20,2843,42,1389,Local - Social Contact,Punjab,Rawalpindi
+21-Nov-20,2665,59,897,Local - Social Contact,Baluchistan,Quetta
+22-Nov-20,2756,34,1057,Local - Social Contact,Punjab,Gujrat
+23-Nov-20,2954,48,875,Local - Social Contact,Punjab,Gujranwala
+24-Nov-20,3009,59,1214,Local - Social Contact,Punjab,Narowal
+25-Nov-20,3306,40,1418,Local - Social Contact,Punjab,Sargodha
+26-Nov-20,3113,54,1489,Local - Social Contact,Punjab,Sialkot
+27-Nov-20,3045,45,1672,Local - Social Contact,Punjab,Bahawal Nagar
+28-Nov-20,2829,43,2257,Iran/Taftan,Punjab,Multan
+29-Nov-20,2839,40,1613,Iran/Taftan,Punjab,Raiwind
+30-Nov-20,2458,66,1863,Tableeghi Jamaat,Punjab,Raiwind
+1-Dec-20,2829,75,2079,Unknown,Gilgit Baltistan,Astore
+2-Dec-20,3499,39,1586,Local - Social Contact,Sindh,Karachi
+3-Dec-20,3262,55,3354,Tableeghi Jamaat,Sindh,Hyderabad
+4-Dec-20,3119,43,2224,Iran/Taftan,Sindh,Sukkur
+5-Dec-20,3308,58,2483,Iran/Taftan,Punjab,Lahore
+6-Dec-20,3795,37,1530,Iran/Taftan,Islamabad Capital Territory,Islamabad
+7-Dec-20,2885,89,13932,Local - Social Contact,Baluchistan,Quetta
+8-Dec-20,2963,60,1797,Local - Social Contact,Khyber Pakhtunkhwa,Buner
+9-Dec-20,3138,56,2030,Local - Social Contact,Khyber Pakhtunkhwa,Abbottabad
+10-Dec-20,3047,50,4791,Local - Social Contact,Khyber Pakhtunkhwa,Dir Lower
+11-Dec-20,2729,71,2116,Local - Social Contact,Khyber Pakhtunkhwa,Dir Upper
+12-Dec-20,3369,72,1792,Local - Social Contact,Khyber Pakhtunkhwa,Hangu
+13-Dec-20,2362,36,1719,Local - Social Contact,Khyber Pakhtunkhwa,Karak
+14-Dec-20,2459,73,1614,Local - Social Contact,Khyber Pakhtunkhwa,Kohat
+15-Dec-20,2731,105,2265,Local - Social Contact,Khyber Pakhtunkhwa,Mansehra
+16-Dec-20,2545,70,7993,Local - Social Contact,Khyber Pakhtunkhwa,Nowshera
+17-Dec-20,2972,84,3261,Local - Social Contact,Khyber Pakhtunkhwa,Peshawar
+18-Dec-20,3179,86,4649,Local - Social Contact,Khyber Pakhtunkhwa,Swabi
+19-Dec-20,2615,80,2904,Local - Social Contact,Punjab,Gujranwala
+20-Dec-20,1680,62,1680,Local - Social Contact,Punjab,Rawalpindi
+21-Dec-20,1704,82,1852,Local - Social Contact,Punjab,Mandi Bahauddin
+22-Dec-20,2142,83,4415,Local - Social Contact,Punjab,Vehari
+23-Dec-20,2256,111,1782,Iran/Taftan,Punjab,Dera Ghazi Khan
+24-Dec-20,2152,85,1824,Iran/Taftan,Punjab,Raiwind
+25-Dec-20,2260,63,1531,Iran/Taftan,Punjab,Faisalabad
+26-Dec-20,1853,58,1643,Iran/Taftan,Gilgit Baltistan,Shigar
+27-Dec-20,1974,55,1760,Iran/Taftan,Gilgit Baltistan,Nagar
+28-Dec-20,1776,63,1602,Iran/Taftan,Gilgit Baltistan,Astore
+29-Dec-20,2155,55,4619,Iran/Taftan,Islamabad Capital Territory,Islamabad
+30-Dec-20,2475,58,4960,Local - Social Contact,Sindh,Karachi
+31-Dec-20,2463,71,2156,Local - Social Contact,Khyber Pakhtunkhwa,Peshawar
+1-Jan-21,2184,82,1745,Local - Social Contact,Khyber Pakhtunkhwa,Abbottabad
+2-Jan-21,2272,53,1686,Local - Social Contact,Khyber Pakhtunkhwa,Buner
+3-Jan-21,1895,39,1797,Local - Social Contact,Khyber Pakhtunkhwa,Dir Upper
+4-Jan-21,1947,59,1903,Local - Social Contact,Khyber Pakhtunkhwa,Hangu
+5-Jan-21,2118,52,4033,Local - Social Contact,Khyber Pakhtunkhwa,Mansehra
+6-Jan-21,2481,50,2122,Local - Social Contact,Khyber Pakhtunkhwa,Swat
+7-Jan-21,2435,47,3313,Local - Social Contact,Punjab,Lahore
+8-Jan-21,2007,40,1617,Local - Social Contact,Punjab,Gujrat
+9-Jan-21,2899,46,1524,Local - Social Contact,Punjab,Jehlum
+10-Jan-21,1877,32,1402,Local - Social Contact,Punjab,Gujranwala
+11-Jan-21,2408,41,3606,Local - Social Contact,Punjab,Rawalpindi
+12-Jan-21,2123,55,2973,Local - Social Contact,Punjab,Chiniot
+13-Jan-21,3097,46,2284,Local - Social Contact,Punjab,Rahim Yar Khan
+14-Jan-21,2417,45,2072,Local - Social Contact,Punjab,Sialkot
+15-Jan-21,2432,45,2793,Local - Social Contact,Punjab,Vehari
+16-Jan-21,2521,43,1540,Local - Social Contact,Punjab,Bahawalpur
+17-Jan-21,1920,46,1589,Local - Social Contact,Punjab,Sheikhupura
+18-Jan-21,1800,58,1243,Tableeghi Jamaat,Punjab,Dera Ghazi Khan
+19-Jan-21,1772,48,2046,Tableeghi Jamaat,Punjab,Multan
+20-Jan-21,2363,54,2452,Tableeghi Jamaat,Punjab,Raiwind
+21-Jan-21,1745,47,1802,Local - Social Contact,Islamabad Capital Territory,Islamabad
+22-Jan-21,1927,43,1737,Local - Social Contact,Khyber Pakhtunkhwa,Peshawar
+23-Jan-21,1594,48,1981,Local - Social Contact,Punjab,Lahore
+24-Jan-21,1629,23,2414,Local - Social Contact,Khyber Pakhtunkhwa,Bannu
+25-Jan-21,1873,58,1223,Local - Social Contact,Khyber Pakhtunkhwa,Buner
+26-Jan-21,1563,74,2081,Local - Social Contact,Khyber Pakhtunkhwa,Dera Ismail Khan
+27-Jan-21,1910,64,2371,Local - Social Contact,Khyber Pakhtunkhwa,Dir Upper
+28-Jan-21,1644,46,2167,Local - Social Contact,Federal Administration Tribal Area,Khyber
+29-Jan-21,2183,63,1407,Local - Social Contact,Khyber Pakhtunkhwa,Lakki Marwat
+30-Jan-21,1599,34,1822,Local - Social Contact,Khyber Pakhtunkhwa,Nowshera
+31-Jan-21,1615,26,1278,Local - Social Contact,Khyber Pakhtunkhwa,Shangla
+1-Feb-21,1220,63,1285,Local - Social Contact,Sindh,Karachi
+2-Feb-21,1384,56,1509,Local - Social Contact,Baluchistan,Quetta
+3-Feb-21,1508,31,1772,Iran/Taftan,Khyber Pakhtunkhwa,Dera Ismail Khan
+4-Feb-21,1302,53,1684,Iran/Taftan,Azad Jummu Kashmir,Muzaffarabad
+5-Feb-21,1286,28,1198,Iran/Taftan,Gilgit Baltistan,Skardu
+6-Feb-21,1346,53,1542,Iran/Taftan,Gilgit Baltistan,Nagar
+7-Feb-21,1037,59,1260,Iran/Taftan,Gilgit Baltistan,Ghanche
+8-Feb-21,1008,40,1441,Local - Social Contact,Islamabad Capital Territory,Islamabad
+9-Feb-21,1072,62,2008,Local - Social Contact,Khyber Pakhtunkhwa,Swat
+10-Feb-21,1502,57,1732,Local - Social Contact,Khyber Pakhtunkhwa,Peshawar
+11-Feb-21,1270,33,1481,Local - Social Contact,Khyber Pakhtunkhwa,Nowshera
+12-Feb-21,1262,58,5536,Local - Social Contact,Khyber Pakhtunkhwa,Orakzai
+13-Feb-21,1404,31,1387,Local - Social Contact,Khyber Pakhtunkhwa,Abbottabad
+14-Feb-21,837,26,910,Local - Social Contact,Khyber Pakhtunkhwa,Charsadda
+15-Feb-21,958,47,1064,Local - Social Contact,Khyber Pakhtunkhwa,Dir Lower
+16-Feb-21,1165,56,1484,Local - Social Contact,Khyber Pakhtunkhwa,Dir Upper
+17-Feb-21,1272,52,2052,Local - Social Contact,Khyber Pakhtunkhwa,Buner
+18-Feb-21,1245,39,1243,Local - Social Contact,Khyber Pakhtunkhwa,Mardan
+19-Feb-21,1339,36,1362,Local - Social Contact,Khyber Pakhtunkhwa,Malakand
+20-Feb-21,1329,38,905,Local - Social Contact,Khyber Pakhtunkhwa,Mansehra
+21-Feb-21,1160,16,1384,Local - Social Contact,Federal Administration Tribal Area,Bajaur
+22-Feb-21,1050,41,752,Local - Social Contact,Khyber Pakhtunkhwa,Bannu
+23-Feb-21,1196,50,1964,Local - Social Contact,Khyber Pakhtunkhwa,Haripur
+24-Feb-21,1361,64,1681,Local - Social Contact,Khyber Pakhtunkhwa,Karak
+25-Feb-21,1541,32,2505,Local - Social Contact,Federal Administration Tribal Area,Kurrum
+26-Feb-21,1315,33,2013,Local - Social Contact,Federal Administration Tribal Area,South Waziristan
+27-Feb-21,1176,23,871,Local - Social Contact,Sindh,Karachi
+28-Feb-21,1392,36,1094,Local - Social Contact,Azad Jummu Kashmir,Mirpur
+1-Mar-21,1163,42,1035,Tableeghi Jamaat,Gilgit-Baltistan,Gilgit
+2-Mar-21,1388,75,6849,Local - Social Contact,Punjab,Lahore
+3-Mar-21,1519,63,987,Local - Social Contact,Punjab,Faisalabad
+4-Mar-21,1579,52,1527,Iran/Taftan,Punjab,Raiwind
+5-Mar-21,1714,38,1441,Iran/Taftan,Gilgit Baltistan,Kharmang
+6-Mar-21,1780,39,1038,Dubai,Gilgit Baltistan,Kharmang
+7-Mar-21,1592,22,1210,Local - Social Contact,Sindh,Karachi
+8-Mar-21,1353,54,3365,Iran/Taftan,Sindh,Sukkur
+9-Mar-21,1786,43,1393,Local - Social Contact,Baluchistan,Quetta
+10-Mar-21,2258,53,1276,Local - Social Contact,Punjab,Lahore
+11-Mar-21,2701,53,1573,Jail,Punjab,Lahore
+12-Mar-21,2338,46,1231,Local - Social Contact,Gilgit Baltistan,Gilgit
+13-Mar-21,2664,32,1275,Local - Social Contact,Gilgit Baltistan,Shigar
+14-Mar-21,2253,29,1247,Local - Social Contact,Azad Jummu Kashmir,Muzaffarabad
+15-Mar-21,2511,58,1196,Local - Social Contact,Khyber Pakhtunkhwa,Abbottabad
+16-Mar-21,2351,61,2853,Local - Social Contact,Khyber Pakhtunkhwa,Bannu
+17-Mar-21,3495,61,1634,Local - Social Contact,Khyber Pakhtunkhwa,Buner
+18-Mar-21,3449,40,813,Local - Social Contact,Khyber Pakhtunkhwa,Charsadda
+19-Mar-21,3876,42,1446,Iran/Taftan,Khyber Pakhtunkhwa,Dera Ismail Khan
+20-Mar-21,3667,44,2092,Local - Social Contact,Khyber Pakhtunkhwa,Dera Ismail Khan
+21-Mar-21,3669,20,1686,Local - Social Contact,Khyber Pakhtunkhwa,Dir Lower
+22-Mar-21,3270,72,1733,Local - Social Contact,Khyber Pakhtunkhwa,Dir Upper
+23-Mar-21,3301,30,957,Local - Social Contact,Khyber Pakhtunkhwa,Karak
+24-Mar-21,3946,63,2747,Local - Social Contact,Federal Administration Tribal Area,Khyber
+25-Mar-21,4368,63,2170,Local - Social Contact,Khyber Pakhtunkhwa,Kohat
+26-Mar-21,4468,67,2137,Local - Social Contact,Khyber Pakhtunkhwa,Mansehra
+27-Mar-21,4767,57,2647,Local - Social Contact,Khyber Pakhtunkhwa,Mardan
+28-Mar-21,4525,41,2268,Local - Social Contact,Khyber Pakhtunkhwa,Mohmand
+29-Mar-21,4084,100,2081,Local - Social Contact,Khyber Pakhtunkhwa,Peshawar
+30-Mar-21,4757,78,2848,Local - Social Contact,Khyber Pakhtunkhwa,Swabi
+31-Mar-21,4974,96,2148,Local - Social Contact,Khyber Pakhtunkhwa,Swat
+1-Apr-21,5234,83,1931,Local - Social Contact,Islamabad Capital Territory,Islamabad
+2-Apr-21,4723,84,2486,Tableeghi Jamaat,Punjab,Raiwind
+3-Apr-21,5020,81,3367,Local - Social Contact,Sindh,Karachi
+4-Apr-21,4323,43,2902,Local - Social Contact,Sindh,Karachi
+5-Apr-21,3953,103,2198,Local - Social Contact,Baluchistan,Quetta
+6-Apr-21,4004,102,2631,Local - Social Contact,Gilgit-Baltistan,Skardu
+7-Apr-21,5329,98,2610,Local - Social Contact,Gilgit-Baltistan,Kharmang
+8-Apr-21,5312,105,2390,Iran/Taftan,Khyber Pakhtunkhwa,Peshawar
+9-Apr-21,5139,100,1772,Local - Social Contact,Khyber Pakhtunkhwa,Peshawar
+10-Apr-21,5050,114,4139,Local - Social Contact,Khyber Pakhtunkhwa,Abbottabad
+11-Apr-21,4584,58,3135,Local - Social Contact,Federal Administration Tribal Area,Bajaur
+12-Apr-21,4140,118,3432,Local - Social Contact,Khyber Pakhtunkhwa,Bannu
+13-Apr-21,4681,135,3645,Local - Social Contact,Khyber Pakhtunkhwa,Charsadda
+14-Apr-21,5395,118,4740,Local - Social Contact,Khyber Pakhtunkhwa,Dir Upper
+15-Apr-21,5364,110,4123,Local - Social Contact,Khyber Pakhtunkhwa,Karak
+16-Apr-21,4976,112,4181,Local - Social Contact,Federal Administration Tribal Area,Khyber
+17-Apr-21,6127,149,4527,Local - Social Contact,Federal Administration Tribal Area,Kurrum
+18-Apr-21,5152,73,3362,Local - Social Contact,Khyber Pakhtunkhwa,Orakzai
+19-Apr-21,5445,137,4286,Local - Social Contact,Khyber Pakhtunkhwa,Shangla
+20-Apr-21,5499,147,5488,Local - Social Contact,Khyber Pakhtunkhwa,Swat
+21-Apr-21,5857,98,3986,Local - Social Contact,Azad Jummu Kashmir,Muzaffarabad
+22-Apr-21,5870,144,5685,Local - Social Contact,Punjab,Lahore
+23-Apr-21,5908,157,4198,Local - Social Contact,Punjab,Multan
+24-Apr-21,5611,118,3324,Local - Social Contact,Punjab,Gujrat
+25-Apr-21,4825,70,4234,Local - Social Contact,Punjab,Jehlum
+26-Apr-21,4487,142,5770,Local - Social Contact,Punjab,Gujranwala
+27-Apr-21,5292,201,4678,Local - Social Contact,Punjab,Rawalpindi
+28-Apr-21,5480,150,3699,Local - Social Contact,Punjab,Faisalabad
+29-Apr-21,5112,131,3272,Local - Social Contact,Punjab,Chiniot
+30-Apr-21,4696,146,5544,Local - Social Contact,Punjab,Mandi Bahauddin
+1-May-21,4414,113,5193,Local - Social Contact,Punjab,Gujrat
+2-May-21,4213,79,5842,Local - Social Contact,Punjab,Jehlum
+3-May-21,3377,161,5018,Local - Social Contact,Sindh,Karachi
+4-May-21,4112,119,5665,Local - Social Contact,Sindh,Karachi
+5-May-21,4198,108,4397,Local - Social Contact,Punjab,Gujranwala
+6-May-21,4298,140,4631,Local - Social Contact,Punjab,Mandi Bahauddin
+7-May-21,4109,120,4957,Local - Social Contact,Baluchistan,Quetta
+8-May-21,3786,118,4569,Local - Social Contact,Punjab,Lahore
+9-May-21,3447,78,4824,Local - Social Contact,Punjab,Lahore
+10-May-21,3096,113,4387,Local - Social Contact,Khyber Pakhtunkhwa,Peshawar
+11-May-21,2869,104,5200,Local - Social Contact,Khyber Pakhtunkhwa,Abbottabad
+12-May-21,3265,104,4623,Local - Social Contact,Sindh,Karachi
+13-May-21,2517,48,4123,Local - Social Contact,Sindh,Karachi
+14-May-21,1531,83,3042,Local - Social Contact,Baluchistan,Quetta
+15-May-21,2379,76,5288,Local - Social Contact,Punjab,Lahore
+16-May-21,3232,74,3754,Local - Social Contact,Punjab,Lahore
+17-May-21,2566,135,2989,Local - Social Contact,Punjab,Lahore
+18-May-21,3256,104,4440,Local - Social Contact,Punjab,Lahore
+19-May-21,4207,131,4171,Local - Social Contact,Sindh,Karachi
+20-May-21,3070,102,6021,Local - Social Contact,Sindh,Karachi
+21-May-21,4006,88,3712,Local - Social Contact,Punjab,Gujranwala
+22-May-21,3088,74,3826,Local - Social Contact,Punjab,Rawalpindi
+23-May-21,3449,141,4100,Local - Social Contact,Punjab,Chiniot
+24-May-21,3096,110,3038,Local - Social Contact,Punjab,Rahim Yar Khan
+25-May-21,2861,134,5400,Local - Social Contact,Punjab,Sialkot
+26-May-21,3269,141,3758,Local - Social Contact,Punjab,Vehari
+27-May-21,2515,130,2990,Local - Social Contact,Punjab,Bahawalpur
+28-May-21,1538,123,3324,Local - Social Contact,Sindh,Karachi
+29-May-21,2399,80,4634,Local - Social Contact,Sindh,Karachi
+30-May-21,3231,114,5760,Local - Social Contact,Baluchistan,Quetta
+31-May-21,2577,109,5360,Local - Social Contact,Punjab,Lahore
