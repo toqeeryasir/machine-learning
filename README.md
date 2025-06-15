@@ -9,9 +9,8 @@ A curated collection of <b>machine learning notebooks, projects, and resources</
 ---
 
 ### <b>🚀 Quick Start</b>  
-```bash  
-git clone https://github.com/your-username/machine-learning.git  
-cd machine-learning
+```bash
+https://github.com/toqeeryasir/machine-learning.git
 ```
 
 Open notebooks in <b>Jupyter</b> or <b>Google Colab</b> and start experimenting!
