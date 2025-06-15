@@ -12,6 +12,7 @@ A curated collection of <b>machine learning notebooks, projects, and resources</
 ```bash  
 git clone https://github.com/your-username/machine-learning.git  
 cd machine-learning
+```
 
 Open notebooks in <b>Jupyter</b> or <b>Google Colab</b> and start experimenting!
 
